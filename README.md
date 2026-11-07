@@ -4,7 +4,8 @@ Customer Churn Prediction
 
 This project uses machine learning to predict customer churn using the IBM Telco Customer Churn dataset.The objective is to identify customers who are likely to leave a telecommunications company and provide insights that could help improve customer retention. 
 
-#Tools and Technologies Python Pandas NumPy Matplotlib Seaborn Scikit-learn 
+#Tools and Technologies
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
 
 #Project Steps Data cleaning and preprocessing Exploratory Data Analysis (EDA) Feature engineering and encoding Train-test splitting Logistic Regression modelling Random Forest classification Hyperparameter optimisation using GridSearchCV Model evaluation and comparison
 
